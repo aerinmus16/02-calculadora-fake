@@ -32,3 +32,5 @@ Calculadora fake
 
 ### Nota: Las funciones son fake
 Reset y luego revert
+
+Texto para el pull
